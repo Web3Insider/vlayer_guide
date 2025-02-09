@@ -62,7 +62,6 @@ JSON_RPC_URL=https://sepolia.optimism.io
 
 ### 🔹 **Install Vlayer SDK & Run Prover**  
 ```bash
-cd vlayer
 bun add @vlayer/sdk
 bun run prove:testnet
 ```
